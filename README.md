@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anupam Choudhary</h1>
 <h3 align="center">Front-end Web Developer</h3>
+<h3 align="center"> Rome wasn't built in a day, and neither is my GitHub Profile. </h3>
 
-
-<h4 align="center"> Rome wasn't built in a day, and neither is my GitHub Profile. </h3>
-
-- 🔭 I’m currently working on **57DaysChallenge**
+- 🔭 I’m currently working on **#57DaysChallenge**
 
 - 🌱 I’m currently learning **React JS and TypeScript**
 
